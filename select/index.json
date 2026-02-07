@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "マッチとピーナッツ",
+  "base_artist": "サカナクション",
+  "createdAt": "2026-02-07T05:51:36.647585Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マッチとピーナッツ",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/01_マッチとピーナッツ_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "マッチとピーナッツ",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/02_マッチとピーナッツ_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Match to Peanut [マッチとピーナッツ]",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/03_Match_to_Peanut_[マッチとピーナッツ]_sakanaction.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マッチとピーナッツ",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_マッチとピーナッツ_サカナクション.txt"
+    }
+  ]
+}
